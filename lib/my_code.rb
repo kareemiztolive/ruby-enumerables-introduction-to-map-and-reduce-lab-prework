@@ -70,11 +70,8 @@ sum = starting_point + source_array[i]
 
 i += 1
   
-  
 end
 
 return sum
 
-
 end
-  
